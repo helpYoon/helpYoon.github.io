@@ -5,5 +5,6 @@ category: workshops
 permalink: /publication/2023-10-02-incremental-object-grounding
 date: 2023-10-02
 venue: 'ICCV 2023 Workshop (Spotlight)'
+link: 'https://arxiv.org/abs/2201.01901'
 citation: '<b>Yoonwoo Kim</b>, John Seon Keun Yi, Sonia Chernova. &quot;Incremental Object Grounding Using Scene Graphs.&quot; <i>ICCV 2023 Workshop Spotlight</i>.'
 ---

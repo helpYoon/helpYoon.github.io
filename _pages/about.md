@@ -15,4 +15,3 @@ Highlights
 ======
 * Our paper on LLM-guided state estimation for partially observable task and motion planning will appear at **ICRA 2026**.
 * Our team placed **2nd at RoboCup@Home 2025**. I lead a team of five graduate students building humanoid systems for household tasks.
-* Summer 2025: Machine Learning Engineer at Roboligent, working on vision-language-action models for manipulation.
