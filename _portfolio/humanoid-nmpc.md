@@ -30,4 +30,6 @@ Results in simulation
 * The 0.45 m/s walk still holds with 20 busy CPU processes competing with the solver.
 * Certified over 54 simulated runs across 33 scenario cells.
 
+**Code:** [github.com/helpYoon/t1_wbc](https://github.com/helpYoon/t1_wbc)
+
 **Tools:** C++, Python, Pinocchio, CasADi, HPIPM, BLASFEO, MuJoCo
