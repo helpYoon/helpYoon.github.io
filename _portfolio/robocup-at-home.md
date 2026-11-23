@@ -2,7 +2,7 @@
 title: "RoboCup@Home"
 excerpt: "A Booster T1 humanoid as a home service robot: it understands spoken commands, perceives and manipulates household objects, maps and navigates the home, and tracks and follows people.<br/><img src='/images/projects/robocup-grasp.jpg' alt='Service robot grasping a bowl from a counter' style='max-width:500px; width:100%'>"
 collection: portfolio
-order: 3
+order: 4
 ---
 
 <img src="/images/projects/robocup-t1.jpg" alt="Booster T1 humanoid standing, with electric grippers in place of hands" style="width:100%; max-width:360px">

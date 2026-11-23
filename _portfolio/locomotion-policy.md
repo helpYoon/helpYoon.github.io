@@ -2,7 +2,7 @@
 title: "Training a Humanoid Locomotion Policy"
 excerpt: "One policy for the Booster T1 and T2 humanoids that tracks whole-body motion clips and walks on velocity commands, trained through a learned world model.<br/><img src='/images/projects/locomotion-policy.jpg' alt='Booster T2 humanoid walking in simulation' style='max-width:500px; width:100%'>"
 collection: portfolio
-order: 1
+order: 2
 ---
 
 <video src="/images/projects/locomotion-policy.mp4" autoplay loop muted playsinline style="width:100%; max-width:640px"></video>
@@ -88,5 +88,7 @@ Results
 * In simulation, the T1 policy trains in 32 minutes on one RTX 4090 and tracks all 11,900 evaluation clips with no failures.
 * With the landing command, 96.9–99.6% of single steps from a standing pose land within 5 cm of the target across three seeds, with no falls.
 * On hardware, the T2 velocity policy runs on the real robot, exported to ONNX and deployed through Booster's deployment stack.
+
+**Code:** [github.com/helpYoon/locomotion](https://github.com/helpYoon/locomotion)
 
 **Tools:** PyTorch, MuJoCo, MuJoCo-Warp, mjlab, ONNX

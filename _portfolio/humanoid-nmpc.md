@@ -2,7 +2,7 @@
 title: "Whole-Body NMPC for Humanoid Walking"
 excerpt: "A whole-body nonlinear model predictive controller that walks the Booster T1. Foot placement emerges from one optimal control problem, re-solved every 20 ms.<br/><img src='/images/projects/humanoid-nmpc.jpg' alt='Booster T1 humanoid walking in MuJoCo' style='max-width:500px; width:100%'>"
 collection: portfolio
-order: 2
+order: 3
 ---
 
 <img src="/images/projects/humanoid-nmpc.gif" alt="The Booster T1 walking in MuJoCo under the controller" style="width:100%; max-width:640px">
